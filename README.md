@@ -1,2 +1,2 @@
 # standingdesk
-An app to remind me to stand.
+At my work, I have a motorized standing desk. I was looking for apps that would remind me to stand and sit at regular intervals. In the long run, I want an app that conditions me, so it starts at standing for an hour a day for a week, then two hours a day for a week, and so on and so forth. I can't find that app. Instead I made a quick AppleScript that will prompt me to change position every 45 minutes.
